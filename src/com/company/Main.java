@@ -10,7 +10,6 @@ public class Main {
     private static String[] words = new String[10];
 
     public static void main(String[] args) {
-
         System.out.println();
         task1();
         System.out.println();
@@ -28,8 +27,6 @@ public class Main {
         numDirectory.get("Big");
         numDirectory.get("Raul");
     }
-
-
 
     private static void task1(){
         addWords();

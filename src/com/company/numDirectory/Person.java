@@ -9,12 +9,4 @@ public class Person {
         this.name = name;
         this.num = num;
     }
-
-    public String getName() {
-        return name;
-    }
-
-    public String getNum() {
-        return num;
-    }
 }
