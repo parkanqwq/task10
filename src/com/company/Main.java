@@ -20,7 +20,7 @@ public class Main {
     private static void task2() {
         NumDirectory numDirectory = new NumDirectory();
         System.out.println("Тут мы добавили людей в тел справочник, а после вызвали пару имен");
-        numDirectory.add("Max", "89990151212");
+        numDirectory.add("Max", "89990151213");
         numDirectory.add("Big", "88002001232");
         numDirectory.add("Max", "89854562222");
         numDirectory.add("Big", "89325468585");
